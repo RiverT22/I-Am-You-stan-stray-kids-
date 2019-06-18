@@ -1,0 +1,12 @@
+h1{
+    border-color: peachpuff;
+    border-width: 5px;
+    border-style:solid;
+}
+
+h3{
+    border : 2px dotted rgb(125, 60, 35);
+    color: powderblue;
+}
+
+    
