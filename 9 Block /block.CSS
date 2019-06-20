@@ -1,5 +1,48 @@
-#div {
-background-color:peachpuff;
-height: 300px;
-width: 300px;
+.div {
+    background-color:peachpuff;
+    height:300px;
+    width:300px;
+}
+
+.second {
+background-color:powderblue;
+height:300px;
+width:300px;
+}
+
+.third {
+    background-color:salmon;
+    height:300px;
+    width:300px; 
+
+}
+
+.fourth {
+    background-color:lemonchiffon;
+    height:300px;
+    width:300px;
+    left:308px;
+    position:absolute;
+    top:8px;
+
+}
+
+.sixth {
+    background-color:khaki;
+    height: 300px;
+    width: 300px;
+    position:absolute;
+    
+
+}
+
+.seventh {
+    background-color:lightsalmon;
+    height:300px;
+    width:300px;
+    position:static;
+    top:8px;
+    left:300px;
+    right:8px;
+    
 }
